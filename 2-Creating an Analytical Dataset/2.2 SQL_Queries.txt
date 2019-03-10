@@ -1,0 +1,28 @@
+Query1 . Group the countries with total number of different prodcuts that they supply.
+ANS1. Select s.Country,COUNT(*) Total_products 
+      From Products p join Suppliers s on p.SupplierID = s.SupplierID 
+      Group by 1 
+      Order by Total_products desc;
+
+QUERY2. Top 15 orders that were ordered by customers the most in 2015.
+ANS.    Select p.ProductID , p.ProductName, Sum(od.Quantity) Quantity_Ordered 
+        From OrderDetails od join Orders o on o.Orderid=od.OrderID 
+        Join Products p on p.ProductID =od.ProductID 
+        Where STRFTIME('%Y',o.OrderDate)='2015' 
+        Group by 1,2 
+        Order by 3 desc  
+        Limit 15;
+
+Query 3. Calculate total sales in 2015 with the total number of products sold.
+ANS. Select sum(Total_sales),SUM(product) 
+     From (Select c.CategoryName,Sum(od.UnitPrice*od.Quantity)as Total_Sales,Count(p.ProductName) product 
+           From Categories c join Products p on p.CategoryID=c.CategoryID 
+           join OrderDetails od on od.ProductID=p.ProductId 
+           join Orders o on o.Orderid=od.OrderID 
+           Where STRFTIME('%Y',o.OrderDate)='2015' 
+           Group by 1) t1;
+
+Query 4. How many Products come under Different Categories. 
+ANS. Select  c.CategoryName,Count(p.ProductName) Total_Products 
+     From Products p Join Categories c on c.CategoryID = p.CategoryID 
+     Group by 1; 
