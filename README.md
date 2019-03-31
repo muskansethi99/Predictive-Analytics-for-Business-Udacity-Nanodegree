@@ -9,7 +9,7 @@ by Alteryx</a>**
 
 Learn a structured framework for solving problems with advanced analytics. Learn to select the most appropriate analytical methodology. Learn linear regression.
 
-*Project 1*: <a href = "https://github.com/muskansethi99/Predictive-Analytics-for-Business-Udacity-Nanodegree/blob/master/1-Problem%20Solving%20with%20Advanced%20Analytics%20by%20Alteryx/0-Predicting%20Diamond%20Price.pdf">Predicting Diamond Prices</a>
+   *Project 1*: <a href = "https://github.com/muskansethi99/Predictive-Analytics-for-Business-Udacity-Nanodegree/blob/master/1-Problem%20Solving%20with%20Advanced%20Analytics%20by%20Alteryx/0-Predicting%20Diamond%20Price.pdf">Predicting Diamond Prices</a>
 
 *Project 2*:<a href= "https://github.com/muskansethi99/Predictive-Analytics-for-Business-Udacity-Nanodegree/blob/master/1-Problem%20Solving%20with%20Advanced%20Analytics%20by%20Alteryx/Predicting%20Catalog%20Demand.pdf">Predicting Catalog Demand</a>
 
