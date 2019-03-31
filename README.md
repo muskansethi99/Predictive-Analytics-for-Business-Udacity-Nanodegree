@@ -14,7 +14,7 @@ Learn a structured framework for solving problems with advanced analytics. Learn
 *Project 2*:<a href= "https://github.com/muskansethi99/Predictive-Analytics-for-Business-Udacity-Nanodegree/blob/master/1-Problem%20Solving%20with%20Advanced%20Analytics%20by%20Alteryx/Predicting%20Catalog%20Demand.pdf">Predicting Catalog Demand</a>
 
 
-**Part -2** < a href="https://in.udacity.com/course/creating-an-analytical-dataset--ud977">Creating an Analytical Dataset
+**Part -2** <a href="https://in.udacity.com/course/creating-an-analytical-dataset--ud977">Creating an Analytical Dataset
 by Alteryx</a>
 
 Understand the most common data types. Understand the various sources of data. Make adjustments to dirty data to prepare a dataset. Identify and adjust for outliers. Learn to write queries to extract and analyze data from a relational database.
@@ -25,13 +25,13 @@ Understand the most common data types. Understand the various sources of data. M
        <a href="https://github.com/muskansethi99/Predictive-Analytics-for-Business-Udacity-Nanodegree/blob/master/2-Creating%20an%20Analytical%20Dataset/2.2%20SQL_Queries.txt"> SQL Queries</a>
      
      
-**Part -3** < a href="https://in.udacity.com/course/data-visualization-in-tableau--ud1006">Data Visualization in Tableau</a>
+**Part -3** <a href="https://in.udacity.com/course/data-visualization-in-tableau--ud1006">Data Visualization in Tableau</a>
 
 Understand the importance of data visualization. Know how different data types are encoded in visualizations. Select the most effective chart or graph based on the data being displayed.
 
 *Project -5*:<a href="https://github.com/muskansethi99/Predictive-Analytics-for-Business-Udacity-Nanodegree/blob/master/3-%20Data%20Visualization/3.1%20Project%20data%20visualization.pdf">Visualizing Movie Data</a>
 
 
-**Part -5** < a href = "https://in.udacity.com/course/ab-testing--ud979">A/B Testing for Business Analysts</a>
+**Part -5** <a href = "https://in.udacity.com/course/ab-testing--ud979">A/B Testing for Business Analysts</a>
 
 Understand the fundamentals of A/B testing, including experimental design, variable selection, and analyzing and interpreting results.
